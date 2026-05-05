@@ -178,3 +178,9 @@ Tenho direcionamento para a área de Dados, com foco em Análise de Dados e Busi
     </td>
   </tr>
 </table>
+
+### ✒️ Filosofia
+
+> “Without data, you're just another person with an opinion.”
+> "Sem dados, você é apenas mais uma pessoa com uma opinião.”
+> — W. Edwards Deming
